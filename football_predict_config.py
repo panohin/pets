@@ -1,0 +1,15 @@
+token = '1364193418:AAFFcari9PHgRFNrX2UI4yAd-Sofm9UtfXM'
+football_data_api = '3749f9a8bd834c7784f1787db3255b77'
+host='localhost'
+#user="root"
+user='retyui55gm'
+#password="Sokolova11!"
+password='retyui55gmPASS'
+#password='xpXjOoEJ2'
+port='3306'
+#port = '5432'
+# database='football_predict'
+database = 'retyui55gm'
+compet_name='premier league'
+#present_matchday = 12
+admin = 717473915
