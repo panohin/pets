@@ -53,7 +53,6 @@ def help_command(message):
 /rating - общий рейтинг участников.
 /help - вызов справки
 Удачи!
-
                     '''
                      )
 
