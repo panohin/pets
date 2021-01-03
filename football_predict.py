@@ -1,4 +1,4 @@
- #!/usr/bin/python3.3
+#!/usr/bin/python3.3
 
 import football_predict_config
 import os
@@ -53,6 +53,7 @@ def help_command(message):
 /rating - общий рейтинг участников.
 /help - вызов справки
 Удачи!
+
                     '''
                      )
 
